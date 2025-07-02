@@ -13,7 +13,7 @@
 ### 2. ***Prediction:***
  #### predicts the new given image as on or off.
 
-##Librabries Used:
+## Librabries Used:
 
 #### 
 | Library                                           | Purpose                                                          |
