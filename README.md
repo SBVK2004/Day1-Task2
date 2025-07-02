@@ -4,7 +4,7 @@
 
 ## Objective : To predict whether a given object is in on or off
 
-## Process involved to successful completion of the project
+## ` Process involved to successful completion of the project
 
 ### 1. ***Image Preprocessing:***
   #### Applies resizing, normalization, and augmentations (like flipping, rotation) to make the model more robust.
